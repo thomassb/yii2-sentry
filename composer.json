@@ -1,6 +1,6 @@
 {
-  "name": "notamedia/yii2-sentry",
-  "description": "Yii2 logger for Sentry",
+  "name": "thomassb/yii2-sentry",
+  "description": "Copy of notamedia/yii2-sentry Yii2 logger for Sentry",
   "keywords": [
     "sentry",
     "yii2"
